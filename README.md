@@ -129,11 +129,11 @@ The SBT also tracks milestone statistics and badges:
 
 - **Tournament stats**: number of tournaments played, top-8 finishes, championships won
 - **Badges**: Yoki Origins veteran, Yoki Legacy veteran, Genesis player status
-- **Rank and titles**: updated by the backend as the player progresses through seasons
 
-## Fee and Rewards
+## Fees and Rewards
 
 - Minting fees can be configured for each season, using either ETH or any ERC20 token.
+- Fees are automatically transferred to the treasury address.
 - Arena entry fees contribute to a shared prize pool used to reward the winners.
 - Each tournament can be sponsored to offer more attractive rewards.
 
