@@ -145,7 +145,7 @@ Any existing NFT could potentially become either a fighter or an item of equipme
 - **Presentation video** : https://youtu.be/IkLeJocfBpw
 - **dApp on testnet** : https://yoki-battle-ui.vercel.app/
 
-Git repositories:
+Git repositories *(private for the time being)*:
 - **Smart contracts** : https://github.com/GuiGou12358/yoki-battle-contracts-v2
 - **UI** : https://github.com/GuiGou12358/yoki-battle-ui
 - **Worker** : https://github.com/GuiGou12358/yoki-battle-worker
