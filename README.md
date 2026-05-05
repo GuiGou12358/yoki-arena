@@ -1,4 +1,4 @@
-# yoki-arena
+# Yoki Arena
 
 From misty temples to blazing dojos, each arena has its own properties and influences. Exploit affinities, anticipate synergies, and let your creatures fully unleash their power in dynamic battles.
 
