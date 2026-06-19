@@ -41,13 +41,15 @@ The requested funding is intended to validate real-world adoption, gather commun
 
 When members of the community requested a continuation of the Yoki NFT series, it was communicated that such a project would need to be developed by an independent contributor rather than directly by the Astar team.
 
-Following this discussion, a Community Council member mentioned my name as a potential contributor, and I volunteered to build the project.
+Following this discussion, a Community Council member approached me for my thoughts on the idea, and I volunteered to build the project.
 
 Over the past several months, I have continuously developed Yoki Arena while sharing regular progress updates with the community.
 
 Today, the application is almost fully functional and can already be tested on Minato (Soneium Testnet).
 
 However, access through testnet environments remains limited for many community members. This proposal aims to make the game accessible to a broader audience through a public deployment on Soneium Mainnet.
+
+You can find the full proposal discussion here: https://forum.astar.network/t/proposal-yoki-arena-community-evaluation-phase/9507
 
 ---
 
@@ -92,7 +94,7 @@ The remaining work focuses primarily on:
 
 Yoki Arena is a competitive strategy game built around Yoki-themed characters and equipment.
 
-Players participate in arena battles by assembling teams and equipment configurations. Battle outcomes are calculated automatically, creating a strategic experience focused on preparation, optimization, and competition.
+Players participate in arena battles by assembling teams and equipment configurations. Battles are entirely simulated by advanced artificial intelligence. The AI does not treat both sides equally: it accounts for the raw power of your Yoki, the bonuses granted by your equipment, but also your accumulated experience as an onmyoji and your tactical knowledge of the spirits and artifacts you have encountered. The deeper your mastery, the sharper your edge. Every action and result is transparent, traceable, and secured via blockchain: you remain the true owner of your Yoki and their equipment.
 
 The evaluation phase will focus on:
 
@@ -122,12 +124,9 @@ Players use ASTR to mint NFTs, upgrade and evolve them, and participate in arena
 
 By combining Startale App compatibility, simplified onboarding, and ASTR-powered gameplay mechanics, the project serves as a real-world experiment for how users can discover, access, and interact with ecosystem applications using ASTR as the primary token.
 
-The evaluation phase will provide valuable data regarding:
+The ASTR used within the game could either be allocated to the Community Treasury or permanently burned.
 
-* User adoption of Startale-compatible applications;
-* ASTR spending behavior within a gaming environment;
-* Onboarding efficiency for non-technical users;
-* Long-term engagement potential for ecosystem dApps.
+The use of ASTR as the primary in-game token is expected to create increasing demand for ASTR on the Soneium blockchain while simultaneously reducing the circulating supply through the burn mechanism.
 
 ### Gathering Actionable Ecosystem Data
 
@@ -256,7 +255,6 @@ $7,500 (1,136,363 ASTR based on the EMA30 price of $0.006600).
 * Public evaluation environment deployed on Soneium Mainnet;
 * Startale App integration completed;
 * Community evaluation campaign launched;
-* Evaluation reporting framework activated.
 
 ### Success Criteria
 
@@ -274,8 +272,7 @@ The evaluation phase will be considered successful if it achieves:
 * Measurable ASTR usage through NFT minting, progression, equipment acquisition, and arena participation;
 * Collection of onboarding and gameplay feedback;
 * Stable operation throughout the testing period;
-* Measurable interaction with Startale App and Soneium Mainnet;
-* Actionable insights regarding user retention and engagement.
+* Measurable interaction with the Mini App and Soneium Mainnet.
 
 A final public report will be published after completion of the evaluation phase.
 
