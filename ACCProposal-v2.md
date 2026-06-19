@@ -94,7 +94,13 @@ The remaining work focuses primarily on:
 
 Yoki Arena is a competitive strategy game built around Yoki-themed characters and equipment.
 
-Players participate in arena battles by assembling teams and equipment configurations. Battles are entirely simulated by advanced artificial intelligence. The AI does not treat both sides equally: it accounts for the raw power of your Yoki, the bonuses granted by your equipment, but also your accumulated experience as an onmyoji and your tactical knowledge of the spirits and artifacts you have encountered. The deeper your mastery, the sharper your edge. Every action and result is transparent, traceable, and secured via blockchain: you remain the true owner of your Yoki and their equipment.
+Players participate in arena battles by assembling teams and equipment configurations. Battles are entirely simulated by advanced artificial intelligence. 
+
+The AI does not treat both sides equally: it accounts for the raw power of your Yoki, the bonuses granted by your equipment, but also your accumulated experience as an onmyoji and your tactical knowledge of the spirits and artifacts you have encountered. 
+
+The deeper your mastery, the sharper your edge. 
+
+Every action and result is transparent, traceable, and secured via blockchain: you remain the true owner of your Yoki and their equipment.
 
 The evaluation phase will focus on:
 
